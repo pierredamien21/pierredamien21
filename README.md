@@ -2,10 +2,10 @@
 
 Élève ingénieur en informatique à l'UTBM. Je travaille sur la data science, le machine learning et le développement backend, avec un intérêt particulier pour les algorithmes et leur coût réel.
 
-**Langages :** Python · C++17 · SQL · TypeScript
-**Data & ML :** pandas · NumPy · scikit-learn · XGBoost · LightGBM · TensorFlow/Keras · LangChain
-**Backend & web :** FastAPI · SQLAlchemy · PostgreSQL · Next.js · React · Streamlit
-**Outils :** Git · Docker Compose · Prometheus/Grafana · CMake · Qt 6
+- **Langages :** Python · C++17 · SQL · TypeScript
+- **Data & ML :** pandas · NumPy · scikit-learn · XGBoost · LightGBM · TensorFlow/Keras · LangChain
+- **Backend & web :** FastAPI · SQLAlchemy · PostgreSQL · Next.js · React · Streamlit
+- **Outils :** Git · Docker Compose · Prometheus/Grafana · CMake · Qt 6
 
 ## Projets phares
 
