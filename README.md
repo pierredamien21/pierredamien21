@@ -12,7 +12,7 @@
 | Projet | Ce qu'il montre | Stack |
 |---|---|---|
 | [Détection de communautés](https://github.com/pierredamien21/detection-communautes) | 7 algorithmes de graphes implémentés depuis les articles d'origine, comparés à l'optimum exact (PLNE), 35 tests automatisés | Python · HiGHS |
-| [Simulateur IoT qualité de l'air](https://github.com/pierredamien21/-Simulateur-d-cosyst-me-IoT-Qualit-de-l-Air) | Capteurs virtuels, serveur d'analyse qui pilote la ventilation, tableau de bord temps réel | C++17 · Qt 6 · CMake |
+| [Simulateur IoT qualité de l'air](https://github.com/pierredamien21/simulateur-iot-qualite-air) | Capteurs virtuels, serveur d'analyse qui pilote la ventilation, tableau de bord temps réel | C++17 · Qt 6 · CMake |
 | [Fraud Detection](https://github.com/pierredamien21/Fraud-Detection) | Pipeline ML sur 50 000 transactions : prévention du data leakage, déséquilibre de classes (SMOTE), diagnostic du surapprentissage | Python · scikit-learn |
 | [API Ferme Mokpokpo](https://github.com/pierredamien21/BD_mokpokokpo) | API REST avec authentification JWT par rôles, stocks par lots FEFO, prédiction des ventes | FastAPI · PostgreSQL |
 | [HelixMind AI](https://github.com/pierredamien21/helixmind-ai) | Assistant RAG qui répond aux questions sur les procédures d'un laboratoire de génomique | FastAPI · LangChain · Chroma · React |
@@ -20,9 +20,9 @@
 
 ## Autres projets
 
-- [Text mining sur les langues Sara du Tchad](https://github.com/pierredamien21/TextMining_NADJAK_Moyinib_Pierre_Damien) : extraction d'un lexique PDF en 14 dialectes, exploration statistique, ACP et t-SNE.
-- [GreenSight Lomé](https://github.com/pierredamien21/projet-energisight-) : estimation de la consommation énergétique des bâtiments par transfer learning (XGBoost, LightGBM).
+- [Text mining sur les langues Sara du Tchad](https://github.com/pierredamien21/text-mining-langues-sara) : extraction d'un lexique PDF en 14 dialectes, exploration statistique, ACP et t-SNE.
+- [GreenSight Lomé](https://github.com/pierredamien21/energisight-lome) : estimation de la consommation énergétique des bâtiments par transfer learning (XGBoost, LightGBM).
 - [AgriSmart](https://github.com/pierredamien21/app_agrismart) : diagnostic de maladies du maïs et du manioc par réseau de neurones convolutif.
 - [Services publics au Togo](https://github.com/pierredamien21/togo-services-optimization) : analyse de 52 837 demandes de documents officiels et 7 indicateurs de performance.
-- [Horizon Akowé](https://github.com/pierredamien21/Projet_AKOWE) : score d'attractivité des marchés EdTech africains à partir des données de la Banque mondiale.
+- [Horizon Akowé](https://github.com/pierredamien21/akowe-marches-edtech) : score d'attractivité des marchés EdTech africains à partir des données de la Banque mondiale.
 - [Supervision d'entrepôt de données](https://github.com/pierredamien21/anakpa) : Prometheus, Grafana, Loki et Alertmanager sous Docker Compose.
